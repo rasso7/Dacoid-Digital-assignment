@@ -1,5 +1,5 @@
 # Quiz App
-[Live](https://shop-karo-cklt.onrender.com)
+[Live Link](https://quiz-website-dzpfx8v03-rashids-projects-6d252beb.vercel.app/)
 
 https://github.com/user-attachments/assets/0b8a6227-28c3-44cc-8240-d26304ed8a56
 ## feature
@@ -19,7 +19,7 @@ Displayed a scoreboard at the end of each quiz attempt.
 Quiz history is saved using IndexedDB for offline access and persistence.
 ✅ Deployment
 The application is deployed on [Vercel/Netlify].
-✅ [Live Link](https://shop-karo-cklt.onrender.com)
+✅ [Live Link](https://quiz-website-dzpfx8v03-rashids-projects-6d252beb.vercel.app/)
 
 First, run the development server:
 
