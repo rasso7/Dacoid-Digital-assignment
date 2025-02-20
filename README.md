@@ -1,7 +1,25 @@
 # Quiz App
 [Live](https://shop-karo-cklt.onrender.com)
 
-## Getting Started
+https://github.com/user-attachments/assets/0b8a6227-28c3-44cc-8240-d26304ed8a56
+## feature
+
+I have successfully implemented all the required features for the quiz application as per the assignment specifications:
+
+✅ Quiz Creation & Management
+Displayed a list of quiz questions from the provided sample_quiz.pdf.
+Allowed multiple attempts for users.
+Implemented attempt history tracking.
+✅ User Interaction
+Users can select answers and receive instant feedback.
+Implemented timer-based quizzes, where each question has a 30-second time limit.
+✅ Progress Tracking
+Displayed a scoreboard at the end of each quiz attempt.
+✅ Bonus Challenges
+Quiz history is saved using IndexedDB for offline access and persistence.
+✅ Deployment
+The application is deployed on [Vercel/Netlify].
+✅ [Live Link](https://shop-karo-cklt.onrender.com)
 
 First, run the development server:
 
@@ -17,18 +35,8 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
 ## Deploy on Vercel
 
